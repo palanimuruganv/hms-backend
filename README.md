@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Hospital Management System — Backend API v2
 
 Complete REST API matching your full-stack frontend with **10 modules** and **80+ endpoints**.
@@ -289,3 +290,7 @@ Seeded data also includes: **5 patients**, **28 beds** (General/ICU/Private/Mate
 - **Bed lifecycle**: available → occupied → cleaning → available (with full transfer history)
 - **MAR (Medication Administration Record)**: Per-dose tracking on IPD medications
 - **Soft deletes**: Nothing is hard-deleted — `isActive: false` pattern throughout
+=======
+# hms-backend
+backend from node js and mongodb
+>>>>>>> 9fb32bc12e82b6f00b41a867c101e5885c6dbdb9
